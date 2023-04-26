@@ -1,2 +1,2 @@
-i use this so i can shoot fast in cod with a pistol. 
+i use this so i can shoot fast with a pistol. 
 to goood :>
