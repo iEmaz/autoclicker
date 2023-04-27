@@ -11,3 +11,6 @@ for x in range(50):
     mouse.release(Button.left)
 
 print('the autoclicker has finished running!')
+
+Credit to hyp_r
+
