@@ -12,5 +12,4 @@ for x in range(50):
 
 print('the autoclicker has finished running!')
 
-Credit to hyp_r
 
