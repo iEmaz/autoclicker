@@ -10,6 +10,6 @@ for x in range(50):
     mouse.press(Button.left)
     mouse.release(Button.left)
 
-print('the autoclicker has finished running!')
+print('the autoclicker has finished')
 
 
